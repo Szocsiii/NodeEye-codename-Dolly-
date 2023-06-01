@@ -7,4 +7,4 @@ Ház és kamera biztonsági rendszer beépitett smart funkciokal.
 0.2.5 verziószám tartalmaza 3d OpenGL integrációt.
 
 
-Következő frisités a 0.3 lesz mely már a kamerák irányitását is magába foglya foglalni.
+Következő frisités a 0.3 lesz mely már a kamerák irányitását is magába fogja foglalni.
